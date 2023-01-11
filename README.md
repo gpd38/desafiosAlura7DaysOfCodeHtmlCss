@@ -4,11 +4,11 @@ Este repositório foi criado para exibir algumas respostas referentes ao desafio
 
 ### Desafio 01: 
 
-[Diretório do desafio 01]()
+[Diretório do desafio 01](https://github.com/gpd38/desafiosAlura7DaysOfCodeHtmlCss/tree/main/desafio01)
 
 ### Desafio 02: 
 
-[Diretório do desafio 02]()
+[Diretório do desafio 02](https://github.com/gpd38/desafiosAlura7DaysOfCodeHtmlCss/tree/main/desafio02)
 
 ### Desafio 03: 
 
